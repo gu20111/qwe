@@ -1,0 +1,328 @@
+#EXTM3U url-tvg="https://tritel.net.ru/cp/files/xmltv.xml.gz" refresh="3600"
+#EXTGRP:ФЕДЕРАЛЬНЫЕ
+#EXTINF:0 tvg-name="Первый канал",Первый канал
+http://91.207.115.228:3000/c1
+#EXTINF:0 tvg-name="Россия 1",Россия 1
+http://91.207.115.228:3000/c2
+#EXTINF:0 tvg-name="Матч ТВ",Матч ТВ
+http://91.207.115.228:3000/c3
+#EXTINF:0 tvg-name="НТВ",НТВ
+http://91.207.115.228:3000/c4
+#EXTINF:0 tvg-name="5-й канал",5-й канал
+http://91.207.115.228:3000/c5
+#EXTINF:0 tvg-name="Россия К",Россия К
+http://91.207.115.228:3000/c6
+#EXTINF:0 tvg-name="Россия 24",Россия 24
+http://91.207.115.228:3000/c7
+#EXTINF:0 tvg-name="Карусель",Карусель
+http://91.207.115.228:3000/c8
+#EXTINF:0 tvg-name="ОТР",ОТР
+http://91.207.115.228:3000/c9
+#EXTINF:0 tvg-name="ТВЦ",ТВЦ
+http://91.207.115.228:3000/c10
+#EXTINF:0 tvg-name="РЕН-ТВ",РЕН-ТВ
+http://91.207.115.228:3000/c11
+#EXTINF:0 tvg-name="СПАС",СПАС
+http://91.207.115.228:3000/c12
+#EXTINF:0 tvg-name="СТС",СТС
+http://91.207.115.228:3000/c13
+#EXTINF:0 tvg-name="Домашний",Домашний
+http://91.207.115.228:3000/c14
+#EXTINF:0 tvg-name="ТВ-3",ТВ-3
+http://91.207.115.228:3000/c15
+#EXTINF:0 tvg-name="Пятница",Пятница
+http://91.207.115.228:3000/c16
+#EXTINF:0 tvg-name="Звезда",Звезда
+http://91.207.115.228:3000/c17
+#EXTINF:0 tvg-name="Мир",Мир
+http://91.207.115.228:3000/c18
+#EXTINF:0 tvg-name="ТНТ",ТНТ
+http://91.207.115.228:3000/c19
+#EXTINF:0 tvg-name="МузТВ",МузТВ
+http://91.207.115.228:3000/c20
+#EXTINF:0 tvg-name="За!ТВ",За!ТВ
+http://91.207.115.228:5000/c22
+#EXTINF:0 tvg-name="Таврия Херсон",Таврия Херсон
+http://91.207.115.228:5000/c23
+#EXTINF:0 tvg-name="ВТВ+",ВТВ+
+http://91.207.115.228:5000/c24
+#EXTINF:0 tvg-name="Юнион",Юнион
+http://91.207.115.228:5000/c25
+#EXTINF:0 tvg-name="Луганск 24",Луганск 24
+http://91.207.115.228:5000/c26
+#EXTINF:0 tvg-name="Соловьев Live",Соловьев Live
+http://91.207.115.228:5000/c27
+#EXTINF:0 tvg-name="Кинопоказ",Кинопоказ
+http://91.207.115.228:5000/c28
+#EXTINF:0 tvg-name="Золотая Коллекция",Золотая Коллекция
+http://91.207.115.228:5000/c29
+#EXTINF:0 tvg-name="Дом Кино",Дом Кино
+http://91.207.115.228:5000/c30
+#EXTINF:0 tvg-name="Родное Кино",Родное Кино
+http://91.207.115.228:5000/c31
+#EXTINF:0 tvg-name="Русский Роман HD",Русский Роман HD
+http://91.207.115.228:5000/c32
+#EXTINF:0 tvg-name="Кино HD",Кино HD
+http://91.207.115.228:5000/c33
+#EXTINF:0 tvg-name="Русский Бестселлер",Русский Бестселлер
+http://91.207.115.228:5000/c34
+#EXTINF:0 tvg-name="Русский Детектив",Русский Детектив
+http://91.207.115.228:5000/c35
+#EXTINF:0 tvg-name="Комедия",Кмедия
+http://91.207.115.228:5000/c168
+#EXTINF:0 tvg-name="365 дней тв",365 дней тв
+http://91.207.115.228:5000/c36
+#EXTINF:0 tvg-name="ТВ1000 Русское Кино",ТВ1000 Русское Кино
+http://91.207.115.228:5000/c37
+#EXTINF:0 tvg-name="Кинохит HD",Кинохит HD
+http://91.207.115.228:5000/c38
+#EXTINF:0 tvg-name="Киносемья HD",Киносемья HD
+http://91.207.115.228:5000/c39
+#EXTINF:0 tvg-name="Мужское Кино HD",Мужское Кино HD
+http://91.207.115.228:5000/c40
+#EXTINF:0 tvg-name="Наше Новое Кино HD",Наше Новое Кино HD
+http://91.207.115.228:5000/c41
+#EXTINF:0 tvg-name="Кинопремьера HD",Кинопремьера HD
+http://91.207.115.228:5000/c42
+#EXTINF:0 tvg-name="Киноужас",Киноужас
+http://91.207.115.228:5000/c43
+#EXTINF:0 tvg-name="НСТ",НСТ
+http://91.207.115.228:5000/c169
+#EXTINF:0 tvg-name="Киномикс HD",Киномикс HD
+http://91.207.115.228:5000/c44
+#EXTINF:0 tvg-name="Киносвидание HD",Киносвидание HD
+http://91.207.115.228:5000/c45
+#EXTINF:0 tvg-name="Кинокомедия HD",Кинокомедия HD
+http://91.207.115.228:5000/c46
+#EXTINF:0 tvg-name="Индийское Кино",Индийское Кино
+http://91.207.115.228:5000/c47
+#EXTINF:0 tvg-name="TV1000",TV1000
+http://91.207.115.228:5000/c48
+#EXTINF:0 tvg-name="TV1000 Action",TV1000 Action
+http://91.207.115.228:5000/c49
+#EXTINF:0 tvg-name="Русский Иллюзион",Русский Иллюзион
+http://91.207.115.228:5000/c171
+#EXTINF:0 tvg-name="Иллюзион+",Иллюзион+
+http://91.207.115.228:5000/c170
+#EXTINF:0 tvg-name="Cinema",Cinema
+http://91.207.115.228:5000/c172
+#EXTINF:0 tvg-name="Ю",Ю
+http://91.207.115.228:5000/c50
+#EXTINF:0 tvg-name="СТС Love",СТС Love
+http://91.207.115.228:5000/c51
+#EXTINF:0 tvg-name="Суббота",Суббота
+http://91.207.115.228:5000/c52
+#EXTINF:0 tvg-name="Время",Время
+http://91.207.115.228:5000/c53
+#EXTINF:0 tvg-name="Ностальгия",Ностальгия
+http://91.207.115.228:5000/c54
+#EXTINF:0 tvg-name="Ретро",Ретро
+http://91.207.115.228:5000/c174
+#EXTINF:0 tvg-name="А-1",А-1
+http://91.207.115.228:5000/c55
+#EXTINF:0 tvg-name="A-2",A-2
+http://91.207.115.228:5000/c56
+#EXTINF:0 tvg-name="Amedia HIT",Amedia HIT
+http://91.207.115.228:5000/c57
+#EXTINF:0 tvg-name="Amedia Premium",Amedia Premium
+http://91.207.115.228:5000/c58
+#EXTINF:0 tvg-name="Hollywood HD",Hollywood HD
+http://91.207.115.228:5000/c59
+#EXTINF:0 tvg-name="Flixsnip",Flixsnip
+http://91.207.115.228:5000/c60
+#EXTINF:0 tvg-name="Kinoliving",Kinoliving
+http://91.207.115.228:5000/c61
+#EXTINF:0 tvg-name="Рыжий",Рыжий
+http://91.207.115.228:5000/c62
+#EXTINF:0 tvg-name="Мульт",Мульт HD
+http://91.207.115.228:5000/c63
+#EXTINF:0 tvg-name="Ani",Ani
+http://91.207.115.228:5000/c64
+#EXTINF:0 tvg-name="Уникум",Уникум
+http://91.207.115.228:5000/c65
+#EXTINF:0 tvg-name="Мульт и Музыка",Мульт и Музыка
+http://91.207.115.228:5000/c66
+#EXTINF:0 tvg-name="Мультиландия",Мультиландия
+http://91.207.115.228:5000/c67
+#EXTINF:0 tvg-name="О!",О!
+http://91.207.115.228:5000/c68
+#EXTINF:0 tvg-name="СТС Kids HD",СТС Kids HD
+http://91.207.115.228:5000/c69
+#EXTINF:0 tvg-name="Мама",Мама
+http://91.207.115.228:5000/c70
+#EXTINF:0 tvg-name="Супергерои",Супергерои
+http://91.207.115.228:5000/c71
+#EXTINF:0 tvg-name="Да Винчи",Да Винчи
+http://91.207.115.228:5000/c72
+#EXTINF:0 tvg-name="Disney Channel",Солнце
+http://91.207.115.228:5000/c72
+#EXTINF:0 tvg-name="Еда Премиум",Еда Премиум
+http://91.207.115.228:5000/c73
+#EXTINF:0 tvg-name="Кухня",Кухня
+http://91.207.115.228:5000/c74
+#EXTINF:0 tvg-name="Сарафан",Сарафан
+http://91.207.115.228:5000/c75
+#EXTINF:0 tvg-name="КВН",КВН
+http://91.207.115.228:5000/c76
+#EXTINF:0 tvg-name="Sci-Fi",Sci-Fi
+http://91.207.115.228:5000/c77
+#EXTINF:0 tvg-name=".RED HD",.RED HD
+http://91.207.115.228:5000/c78
+#EXTINF:0 tvg-name=".Black",.Black
+http://91.207.115.228:5000/c79
+#EXTINF:0 tvg-name="FOX HD",FOX HD
+http://91.207.115.228:5000/c80
+#EXTINF:0 tvg-name="Fox Life HD",Fox Life HD
+http://91.207.115.228:5000/c81
+#EXTINF:0 tvg-name="Планета HD",Планета HD
+http://91.207.115.228:5000/c82
+#EXTINF:0 tvg-name="Наука 2.0",Наука 2.0
+http://91.207.115.228:5000/c83
+#EXTINF:0 tvg-name="Телекафе",Телекафе
+http://91.207.115.228:5000/c84
+#EXTINF:0 tvg-name="История",История
+http://91.207.115.228:5000/c85
+#EXTINF:0 tvg-name="Наша Сибирь",Наша Сибирь HD
+http://91.207.115.228:5000/c86
+#EXTINF:0 tvg-name="Nat Geo Wild HD",Wild HD
+http://91.207.115.228:5000/c90
+#EXTINF:0 tvg-name="Зоо ТВ",Зоо ТВ
+http://91.207.115.228:5000/c91
+#EXTINF:0 tvg-name="Здоровье",Здоровье
+http://91.207.115.228:5000/c92
+#EXTINF:0 tvg-name="Телепутешествия",Телепутешествия
+http://91.207.115.228:5000/c93
+#EXTINF:0 tvg-name="Big Planet",Big Planet
+http://91.207.115.228:5000/c94
+#EXTINF:0 tvg-name="Viasat Explorer",Viasat Explorer
+http://91.207.115.228:5000/c95
+#EXTINF:0 tvg-name="Viasat History",Viasat History
+http://91.207.115.228:5000/c96
+#EXTINF:0 tvg-name="Viasat Nature",Viasat Nature
+http://91.207.115.228:5000/c97
+#EXTINF:0 tvg-name="Дикий",Дикий
+http://91.207.115.228:5000/c98
+#EXTINF:0 tvg-name="Психология-21",Психология-21
+http://91.207.115.228:5000/c175
+#EXTINF:0 tvg-name="Усадьба",Усадьба
+http://91.207.115.228:5000/c176
+#EXTINF:0 tvg-name="Зоопарк",Зоопарк
+http://91.207.115.228:5000/c177
+#EXTINF:0 tvg-name="Вопросы и ответы",Вопросы и Ответы
+http://91.207.115.228:5000/c178
+#EXTINF:0 tvg-name="Здоровое ТВ",Здоровое ТВ
+http://91.207.115.228:5000/c179
+#EXTINF:0 tvg-name="Первый HD",Первый HD
+http://91.207.115.228:5000/c99
+#EXTINF:0 tvg-name="Россия HD",Россия HD
+http://91.207.115.228:5000/c100
+#EXTINF:0 tvg-name="Матч! HD",Матч! HD
+http://91.207.115.228:5000/c101
+#EXTINF:0 tvg-name="Футбол",Футбол HD
+http://91.207.115.228:5000/c102
+#EXTINF:0 tvg-name="Матч! Арена HD",Матч! Арена HD
+http://91.207.115.228:5000/c103
+#EXTINF:0 tvg-name="Матч! Игра HD",Матч! Игра HD
+http://91.207.115.228:5000/c104
+#EXTINF:0 tvg-name="Матч! Премьер HD",Матч! Премьер HD
+http://91.207.115.228:5000/c105
+#EXTINF:0 tvg-name="Матч! Страна",Матч! Страна
+http://91.207.115.228:5000/c106
+#EXTINF:0 tvg-name="Матч! Боец",Матч! Боец
+http://91.207.115.228:5000/c107
+#EXTINF:0 tvg-name="КХЛ HD",КХЛ HD
+http://91.207.115.228:5000/c108
+#EXTINF:0 tvg-name="Охота и рыбалка",Охота и рыбалка
+http://91.207.115.228:5000/c173
+#EXTINF:0 tvg-name="Охотник и рыболов",Охотник и рыболов
+http://91.207.115.228:5000/c109
+#EXTINF:0 tvg-name="Авто Плюс",Авто Плюс
+http://91.207.115.228:5000/c110
+#EXTINF:0 tvg-name="Моторспорт ТВ",Моторспорт ТВ
+http://91.207.115.228:5000/c111
+#EXTINF:0 tvg-name="Extreme Sports",Extreme Sports
+http://91.207.115.228:5000/c112
+#EXTINF:0 tvg-name="Viasat Sport",Viasat Sport
+http://91.207.115.228:5000/c113
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD",Матч! Футбол 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3 HD
+http://91.207.115.228:5000/c116
+#EXTINF:0 tvg-name="Bridge TV",Bridge TV
+http://91.207.115.228:5000/c117
+#EXTINF:0 tvg-name="BRIDGE TV Русский Хит",BRIDGE TV Русский Хит
+http://91.207.115.228:5000/c118
+#EXTINF:0 tvg-name="Europa Plus TV",Europa Plus TV
+http://91.207.115.228:5000/c119
+#EXTINF:0 tvg-name="Bridge Hits",Bridge Hits
+http://91.207.115.228:5000/c120
+#EXTINF:0 tvg-name="ТНТ Music",ТНТ Music
+http://91.207.115.228:5000/c121
+#EXTINF:0 tvg-name="RU TV",RU TV
+http://91.207.115.228:5000/c122
+#EXTINF:0 tvg-name="Музыка Первого",Музыка Первого
+http://91.207.115.228:5000/c123
+#EXTINF:0 tvg-name="Mezzo",Mezzo
+http://91.207.115.228:5000/c124
+#EXTINF:0 tvg-name="Mezzo Live HD",Mezzo Live HD
+http://91.207.115.228:5000/c125
+#EXTINF:0 tvg-name="Жара",Жара
+http://91.207.115.228:5000/c126
+#EXTINF:0 tvg-name="Ля-минор ТВ",Ля-минор ТВ
+http://91.207.115.228:5000/c127
+#EXTINF:0 tvg-name="Известия",Известия HD
+http://91.207.115.228:5000/c128
+#EXTINF:0 tvg-name="360 Новости",360 Новости
+http://91.207.115.228:5000/c129
+#EXTINF:0 tvg-name="Russia Today Doc (RT Doc)",RT DOC HD
+http://91.207.115.228:5000/c130
+#EXTINF:0 tvg-name="Shot TV",Shot TV
+http://91.207.115.228:5000/c131
+#EXTINF:0 tvg-name="Звезда Плюс",Звезда Плюс
+http://91.207.115.228:5000/c132
+#EXTINF:0 tvg-name="Кто Есть Кто",Кто Есть Кто
+http://91.207.115.228:5000/c133
+#EXTINF:0 tvg-name="РБК",РБК ТВ
+http://91.207.115.228:5000/c134
+#EXTINF:0 tvg-name="Мир 24",Мир 24
+http://91.207.115.228:5000/c135
+#EXTINF:0 tvg-name="Телеканал 360",Телеканал 360
+http://91.207.115.228:5000/c136
+#EXTINF:0 tvg-name="Вместе-РФ",Вместе-РФ
+http://91.207.115.228:5000/c137
+#EXTINF:0 tvg-name="Союз",Союз
+http://91.207.115.228:5000/c138
+#EXTINF:0 tvg-name="Красная Линия",Красная Линия
+http://91.207.115.228:5000/c139
+#EXTINF:0 tvg-name="Большая Азия",Большая Азия
+http://91.207.115.228:5000/c140
+#EXTINF:0 tvg-name="Беларусь 24",Беларусь 24
+http://91.207.115.228:5000/c141
+#EXTINF:0 tvg-name="ТНТ4",ТНТ4
+http://91.207.115.228:5000/c142
+#EXTINF:0 tvg-name="VIP Comedy",VIP Comedy
+http://91.207.115.228:5000/c143
+#EXTINF:0 tvg-name="VIP Megahit",VIP Megahit
+http://91.207.115.228:5000/c144
+#EXTINF:0 tvg-name="VIP Premiere",VIP Premiere
+http://91.207.115.228:5000/c145
+#EXTINF:0 tvg-name="Discovery Channel",Discovery Channel
+http://91.207.115.228:5000/c146
+#EXTINF:0 tvg-name="Animal Planet HD",Animal Planet HD
+http://91.207.115.228:5000/c147
+#EXTINF:0 tvg-name="Discovery Science",Discovery Science
+http://91.207.115.228:5000/c148
+#EXTINF:0 tvg-name="Travel Channel",Travel Channel
+http://91.207.115.228:5000/c149
+#EXTINF:0 tvg-name="ID Xtra",ID Xtra
+http://91.207.115.228:5000/c150
+#EXTINF:0 tvg-name="TLC",TLC
+http://91.207.115.228:5000/c151
+#EXTINF:0 tvg-name="Eurosport 1",Eurosport 1 HD
+http://91.207.115.228:5000/c153
+#EXTINF:0 tvg-name="Eurosport 2",Eurosport 2 HD
+http://91.207.115.228:5000/c154
+#EXTINF:0 tvg-name="2x2",2x2
+http://91.207.115.228:5000/c180
